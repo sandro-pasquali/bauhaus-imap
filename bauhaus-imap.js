@@ -1,5 +1,5 @@
 var bauhaus			= require("bauhaus");
-var imapConnection	= require('bauhaus-imap').ImapConnection;
+var imapConnection	= require('imap').ImapConnection;
 var MailParser 		= require("mailparser").MailParser;
 var moment			= require('moment');
 
