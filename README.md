@@ -1,5 +1,5 @@
-TWITTER BOOTSTRAP
-=================
+BAUHAUS-IMAP
+============
 
 See Bauhaus
 
