@@ -1,0 +1,13 @@
+{
+  "name": "bauhaus-imap",
+  "version": "0.1.0",
+  "description": "imap functions for bauhaus library",
+  "keywords": ["nodejs","framework","albers","mies","bauhaus"],
+  "author": "Sandro Pasquali <spasquali@gmail.com>",
+  "dependencies": {
+    "bauhaus"			: "*",
+    "mailparser"		: "*",
+    "moment"			: "*"
+  },
+  "engine": "node >= 0.8.0"
+}
